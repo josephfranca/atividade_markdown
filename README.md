@@ -1,6 +1,6 @@
 # Atividade sobre versionamento e documentação
 
-##O passo a passo da criação e envio
+## O passo a passo da criação e envio
 ---
 ## Como você cria um repositório vazio diretamente no GitHub? Quais configurações iniciais são necessárias?
 ---
